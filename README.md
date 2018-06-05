@@ -11,5 +11,5 @@ The game was a means to practice developing with Babylonjs
 
 # How to Play:
  - Download and run the game by opening index.html on any web browser, preferrably Google Chrome
- 
- ![Alt text](images/circle_game.png?raw=true "Circles"
+
+ ![Alt text](images/circle_game.png?raw=true "Circles")
